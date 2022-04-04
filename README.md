@@ -10,5 +10,5 @@ El Sneaker is a rewritten version of "Tenizao V1" a plugin of mine based on the 
 - El Sneaker | Gives Jump Boost when equipped.
 - El Sneaker Fast | Gives Speed when equipped.
 ### Commands
-- /givesneaker <Tier 1-4> <player> | Gives "El Sneaker" to specified player.
-- /givesneakerfast <Tier 1-3> <player> | Gives "El Sneaker Fast" to specified player.
+- /givesneaker <Tier 1-4> <playername> | Gives "El Sneaker" to specified player.
+- /givesneakerfast <Tier 1-3> <playername> | Gives "El Sneaker Fast" to specified player.
