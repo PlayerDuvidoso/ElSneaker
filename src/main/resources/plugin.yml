@@ -1,0 +1,16 @@
+name: ElSneaker
+version: '${project.version}'
+main: me.devdoso.elsneaker.ElSneaker
+api-version: 1.8.8
+description: A plugin that adds "El Sneaker" into minecraft.
+commands:
+  givesneaker:
+    description: Gives El sneaker to player
+    usage: givesneaker <tier> <Player>
+    permission: tenizaov2.givesneaker
+    permission-message: §cYou can't use this command!
+  givesneakerfast:
+    description: Gives El Sneaker Fast to player
+    usage: givesneakerfast <tier> <Player>
+    permission: tenizaov2.givesneakerfast
+    permission-message: §cYou can't use this command!
